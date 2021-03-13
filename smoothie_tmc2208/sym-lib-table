@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name smoothie)(type Legacy)(uri ${KIPRJMOD}/smoothie.lib)(options "")(descr ""))
+)
